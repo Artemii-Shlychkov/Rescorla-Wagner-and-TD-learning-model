@@ -1,4 +1,4 @@
-# Rescorla-Wagner-learning-model
+# Rescorla-Wagner and TD learning model
 
 ## Overview
 
